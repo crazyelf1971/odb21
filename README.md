@@ -11,7 +11,7 @@
 ## Решения задач в формате Jupyter Notebook для запуска в Google Colab:
 
  [Задача 2][2]: Определить пол клиентов  
- [Задача 4][4]: Определить оптимальное число кластеров в данных о недвижимости в Париже
+ [Задача 4][4]: Определить оптимальное число кластеров
 
   [0]: https://open-data-battle.geecko.com/issues
   [2]: https://github.com/crazyelf1971/odb21/blob/main/odb_4_Gender.ipynb
