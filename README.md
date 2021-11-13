@@ -12,10 +12,12 @@
 
  [Задача 1][1]: Определить, какая часть света отличается от других в статистике заражения COVID-19  
  [Задача 2][2]: Определить пол клиентов  
+ [Задача 3][3]: Оптимизировать нейросеть, описывающую зависимость уровня заработной платы от опыта сотрудников
  [Задача 4][4]: Определить оптимальное число кластеров по данным о недвижимости в Париже  
 
   [0]: https://open-data-battle.geecko.com/issues
   [1]: https://github.com/crazyelf1971/odb21/blob/main/odb_1_Covid_19.ipynb
-  [2]: https://github.com/crazyelf1971/odb21/blob/main/odb_4_Gender.ipynb
+  [2]: https://github.com/crazyelf1971/odb21/blob/main/odb_2_Gender.ipynb
+  [3]: https://github.com/crazyelf1971/odb21/blob/main/odb_3_Predict.ipynb 
   [4]: https://github.com/crazyelf1971/odb21/blob/main/odb_4_Paris.ipynb
   
