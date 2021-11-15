@@ -14,10 +14,11 @@
  [Задача 2][2]: Определить пол клиентов  
  [Задача 3][3]: Оптимизировать нейросеть, описывающую зависимость уровня зарплаты от опыта сотрудников  
  [Задача 4][4]: Определить оптимальное число кластеров по данным о недвижимости в Париже  
+ [Задача 5][5]: Определить категории новостей  
 
   [0]: https://open-data-battle.geecko.com/issues
   [1]: https://github.com/crazyelf1971/odb21/blob/main/odb_1_Covid_19.ipynb
   [2]: https://github.com/crazyelf1971/odb21/blob/main/odb_2_Gender.ipynb
   [3]: https://github.com/crazyelf1971/odb21/blob/main/odb_3_Predict.ipynb 
   [4]: https://github.com/crazyelf1971/odb21/blob/main/odb_4_Paris.ipynb
-  
+  [5]: https://github.com/crazyelf1971/odb21/blob/main/odb_5_Newa.ipynb
