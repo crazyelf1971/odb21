@@ -21,4 +21,4 @@
   [2]: https://github.com/crazyelf1971/odb21/blob/main/odb_2_Gender.ipynb
   [3]: https://github.com/crazyelf1971/odb21/blob/main/odb_3_Predict.ipynb 
   [4]: https://github.com/crazyelf1971/odb21/blob/main/odb_4_Paris.ipynb
-  [5]: https://github.com/crazyelf1971/odb21/blob/main/odb_5_Newa.ipynb
+  [5]: https://github.com/crazyelf1971/odb21/blob/main/odb_5_News.ipynb
