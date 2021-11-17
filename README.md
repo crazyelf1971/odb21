@@ -1,6 +1,6 @@
 # Open Data Battle 2021
 
-![Скорость работы моделей](https://github.com/crazyelf1971/odb21/blob/main/img/model_time.png)
+![Скорость работы моделей](img/model_time.png)
   
 ## Соревнование по анализу данных [**Open Data Battle**][0] проходило в октябре 2021 года.
 
